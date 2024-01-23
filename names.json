@@ -1,0 +1,18 @@
+[
+    {
+        "Name": "example.com",
+        "Address": "12.54.23.6"
+    },
+    {
+        "Name": "acint.net",
+        "Address": "43.53.66.124"
+    },
+    {
+        "Name": "abc.com",
+        "Address": "12.34.54.8"
+    },
+    {
+        "Name": "google.com",
+        "Address": "12.34.54.18"
+    }
+]
